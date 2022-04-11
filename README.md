@@ -1,4 +1,9 @@
-# AngularCrash
+# TaskTracker
+
+This is a simple task tracker application made by following the tutorial video "Angular Crash Course" by Traversy Media on YouTube. It allows the user to Create, Read, Update (set or unset reminder for a task), and Delete tasks. It uses json-server to run a server locally from a db.json file in order to remember any changes made.
+
+
+## AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
